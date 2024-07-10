@@ -1,5 +1,6 @@
 # Projects:
 - Projects done for uni or for fun.
+- CodeMorse_Project (A simple converter from ASCII to Morse code(STILL BUGS!))
 - Boubalia project (A small implementation of the mines game using C language)
 - Database 2024 (A simple example of using PostgreSQL database alongside with a PHP app to do operations)
 - Erasmus Project (A web-app designed for erasmus students with XAMPP for the database using HTML,CSS,PHP)
