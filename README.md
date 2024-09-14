@@ -9,3 +9,6 @@
 - Small Projects (Example code using C language)
 - Trump Search Project (A programm designed to search and do analysis based on Trump's social media using C language)
 - Millionaire Hadoop Project (A project to do data analysis on millionaires with Hadoop using Java for the implementation and Python for the visual presentation of the data analysis)
+- Fishing Tracker Program to track your expenses for fishing equipment(it can be used and for other type of expenses,groceries etc.)
+- AI for spam detection email(jupyter notebook program that detects spam emails and reports it)
+- AI for TIC TAC TOE (AI that plays tic-tac-toe,implements algorithsm like sawing a-b,monte carlo search,search with limited depth and many more.)
