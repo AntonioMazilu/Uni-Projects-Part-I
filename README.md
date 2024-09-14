@@ -12,3 +12,4 @@
 - Fishing Tracker Program to track your expenses for fishing equipment(it can be used and for other type of expenses,groceries etc.)
 - AI for spam detection email(jupyter notebook program that detects spam emails and reports it)
 - AI for TIC TAC TOE (AI that plays tic-tac-toe,implements algorithsm like sawing a-b,monte carlo search,search with limited depth and many more.)
+- Software Engineering Project(It consists of 2 projects one for creating robots and perform tasks by using delegates,indexes and second project to create a police database with interfaces and implementations)
