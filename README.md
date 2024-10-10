@@ -12,3 +12,4 @@
 - AI for Spam Detection: A Jupyter Notebook program that detects and flags spam emails.
 - AI for Tic-Tac-Toe: AI that plays Tic-Tac-Toe, employing algorithms like Alpha-Beta pruning, Monte Carlo search, and limited depth search.
 - Software Engineering Project: Consists of two projects: (1) Creating robots to perform tasks using delegates and indexes; (2) Developing a police database system with interfaces and implementations.
+- Arduino Morse Encoder: Encoder designed for Arduino. The user has a board with a button and the user types an morse sequence and the arduino displays the characters. 
